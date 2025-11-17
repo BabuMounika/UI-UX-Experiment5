@@ -4,37 +4,37 @@
 To Present 2 different UX project scenarios (e.g., designing a health app, an e-commerce site, or a government service portal).
 
 ## Algorithm:
-Start
+1.Start
 
-Load the homepage layout
+2.Load the homepage layout
 
-Import the structure containing navigation bar, banner, product grid, and footer.
+3.Import the structure containing navigation bar, banner, product grid, and footer.
 
-Identify the UI elements to alter
+4.Identify the UI elements to alter
 
 e.g., Banner images, Featured Product Lists, Category Sections.
 
-Capture user preferences or input
+5.Capture user preferences or input
 
 Based on browsing history, clicks, or manual user settings.
 
-Apply alteration rules
+6.Apply alteration rules
 
 If user prefers electronics → move “Electronics” category to top.
 
 If time of day = evening → show “Deals of the Day” banner.
 
-Re-render the updated layout dynamically
+7.Re-render the updated layout dynamically
 
-Use JavaScript or React to update components without full page reload.
+8.Use JavaScript or React to update components without full page reload.
 
-Save the modified interface settings
+9.Save the modified interface settings
 
-Store preferences in local storage or a user profile database.
+10.Store preferences in local storage or a user profile database.
 
-Display the altered interface
+11.Display the altered interface
 
-End
+12.End
 
 ## Output:
 
